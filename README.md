@@ -78,6 +78,3 @@ npm start
 
 **Competitive Advantage**:
 - Focus on privacy, AI-driven support, and a comprehensive solution for workplace safety, legal guidance, and emotional support.
-
-
-## FRONTEND DESIGN
