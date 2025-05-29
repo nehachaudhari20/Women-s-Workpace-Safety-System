@@ -45,10 +45,7 @@ cd sakhi-workplace-safety
 cd python-backend
 pip install -r requirements.txt
 
-cd node-backend
-npm install
-
-npm start
+uvicorn main:app --reload
 
 ### **Business Model for SAKHI: Women’s Workplace Safety & Support System**
 
